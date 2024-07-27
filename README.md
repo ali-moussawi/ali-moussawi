@@ -8,7 +8,7 @@
 
 
 
-- 💬 Ask me about **Asp.net Core, ReactJs or maybe something i can learn.**
+- 💬 Ask me about **Asp.net Core, ReactJs.**
 
 - 📫 How to reach me **ali.moussawi.personal@gmail.com**
 
