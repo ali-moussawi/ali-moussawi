@@ -1,7 +1,7 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 
-<h1 align="center">Hi 👋, I'm Ali Al Moussawi</h1>
+<h1 align="center">Ali Al Moussawi</h1>
 <h3 align="center">I'm Full Stack Developer</h3>
 
 
